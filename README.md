@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLH Localhost: Hacking with Amazon Alexa
 
 This repositiory contains the sample code from the [MLH Localhost: Hacking
@@ -41,3 +42,6 @@ SOFTWARE
 [3]: https://github.com/MLH/mlh-localhost-hacking-with-alexa/raw/master/downloads/lambda-function.zip
 [4]: SpeechAssets/IntentSchema.json
 [5]: SpeechAssets/SampleUtterances.txt
+=======
+# feminist-quotes-alexa
+>>>>>>> 59d311a3bc5e1e332474792c140298b3c3641ad5
