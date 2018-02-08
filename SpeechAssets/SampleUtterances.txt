@@ -1,0 +1,14 @@
+GetNewFactIntent a quote
+GetNewFactIntent a feminist quote
+GetNewFactIntent tell me a quote
+GetNewFactIntent tell me a feminist quote
+GetNewFactIntent give me a quote
+GetNewFactIntent give me a feminist quote
+GetNewFactIntent tell me a feminist quote
+GetNewFactIntent tell me a quote
+GetNewFactIntent give me feminist
+GetNewFactIntent give me a feminist quote
+GetNewFactIntent give me some quote
+GetNewFactIntent give me some feminist quote
+GetNewFactIntent tell me a quote by a feminist
+GetNewFactIntent give me a quote from a feminist
