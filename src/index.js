@@ -13,7 +13,8 @@
 const FACTS = [
   "I am too intelligent, too demanding, and too resourceful for anyone to be able to take charge of me entirely. No one knows me or loves me completely. I have only myself. ― Simone de Beauvoir",
   "Human rights are women’s rights, and women’s rights are human rights. Let us not forget that among those rights are the right to speak freely – and the right to be heard. - Hillary Clinton",
-  ""
+  "I’m a feminist. I’ve been a female for a long time now. It’d be stupid not to be on my own side. -Maya Angelou",
+  "Make sure you have your own life before becoming someone’s wife. - Beyonce"
 ];
 
 //object passed to alexa
