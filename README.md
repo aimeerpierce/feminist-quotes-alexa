@@ -1,1 +1,0 @@
-# feminist-quotes-alexa
